@@ -1,6 +1,6 @@
 import { defineStore } from 'pinia'
 import { useApi } from '@/composables/useApi'
-import defaultBlueprintImageUrl from '@/assets/BluePrint.png'
+import defaultBlueprintImageUrl from '/BluePrint.png'
 import type {
   ActivityAction,
   ActivityLogEntry,
