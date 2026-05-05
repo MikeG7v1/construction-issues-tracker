@@ -2,7 +2,7 @@
   <v-main>
     <div
       ref="viewportRef"
-      class="relative h-[calc(100vh-var(--v-layout-top)-var(--v-layout-bottom))]q min-h-0 w-full overflow-hidden bg-slate-100"
+      class="relative h-[calc(100vh-var(--v-layout-top)-var(--v-layout-bottom))] min-h-0 w-full overflow-hidden bg-slate-100"
     >
       <div
         ref="sceneRef"
